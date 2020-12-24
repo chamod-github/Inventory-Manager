@@ -2,7 +2,7 @@
 
 Inventory management system built using SQL Server and C#.
 
-## Screenshot
+## Screenshots
 
 ![Screenshot of the app](/images/addpage.PNG)
 ![Screenshot of the app](/images/searchpage.PNG)
